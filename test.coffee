@@ -1,5 +1,11 @@
+# There is a comment here
+
+mountpath = 'nothing'
+
 util = require 'util'
 exec = require('child_process').exec
+
+# this is a change
 
 mountpath = "/home/wagoodman/.atom/mounts/localhost/tmp"
 hostname = "localhost"
